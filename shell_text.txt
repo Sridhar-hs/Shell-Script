@@ -1,0 +1,5 @@
+# ls -> to list files and folders
+cd -> to change directory
+touch [file_name]  -> to create a file
+vi or nano [file_name] -> to create and open a file if it does not exist or to edit a pre exixting file
+
