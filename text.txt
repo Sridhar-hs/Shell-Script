@@ -1,0 +1,5 @@
+1 git init -> to initialize the git
+2 git add -> to add the files to staging area
+3 git commit -m "message" -> to add the files to commiting area
+4 git push -> to send to repo
+
